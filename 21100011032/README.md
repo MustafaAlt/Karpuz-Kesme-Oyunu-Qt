@@ -20,7 +20,7 @@ Qt ve C++ kullanılarak geliştirilmiş eğlenceli ve etkileşimli bir meyve kes
 3. Oynayın ve kendi rekorunuzu kırmaya çalışın!
 
 ## 📸 Ekran Görüntüleri
-[![Demo Video](https://youtu.be/4c3R0-fsd6Q)]
+![Oynanıs Demo  Video](https://youtu.be/4c3R0-fsd6Q)
 
 
 ## 📄 Lisans
